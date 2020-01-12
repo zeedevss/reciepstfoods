@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodMeal2</string>
+    <string name="img_foods">Image Foods</string>
+    <string name="lb_cari">Cari</string>
+</resources>
